@@ -8,18 +8,19 @@
     </CLASSES>
     <SOURCES />
     <excluded>
-      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/assertions/.git" />
       <root url="file://$PROJECT_DIR$/../go-example-001-autoswitch-to-https/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/valyala/fasthttp/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/.idea" />
+      <root url="file://$PROJECT_DIR$/../go-example-001-autoswitch-to-https/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/eknkc/amber/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/smartystreets/assertions/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/jtolds/gls/.git" />
       <root url="file://$PROJECT_DIR$/../go-example-002-amber-templates/.git" />
-      <root url="file://$PROJECT_DIR$/../github.com/valyala/fasthttp/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/buaazp/fasthttprouter/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/smartystreets/goconvey/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/.git" />
-      <root url="file://$PROJECT_DIR$/../go-example-001-autoswitch-to-https/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/astaxie/beego/utils/testdata" />
-      <root url="file://$PROJECT_DIR$" />
-      <root url="file://$PROJECT_DIR$/../github.com/eknkc/amber/.git" />
     </excluded>
   </library>
 </component>
